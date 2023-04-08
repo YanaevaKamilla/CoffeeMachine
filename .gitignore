@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Comments/Hello, Java platform/out/
+/Topics/Comments/Hello, Java platform/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/Squirrels and nuts/out/
+/Topics/Integer types and operations/Squirrels and nuts/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
